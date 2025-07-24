@@ -6,7 +6,6 @@ A clean, responsive, single-page **Budget Tracking UI** built for visualizing in
 
 ![Budget UI Screenshot](./assets/screenshot.jpg)
 
-> _(Replace with your actual image path or URL)_
 
 ## ✨ Features
 
