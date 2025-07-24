@@ -1,16 +1,28 @@
-# new_ui
+# 💸 Simple Budget UI
 
-A new Flutter project.
+A clean, responsive, single-page **Budget Tracking UI** built for visualizing income, expenses, and remaining balance. Designed for simplicity and ease of integration.
 
-## Getting Started
+## 🖼️ Preview
 
-```This project is a starting point for a Flutter application.```
+![Budget UI Screenshot](./assets/screenshot.jpg)
 
-"""A few resources to get you started if this is your first Flutter project:"""
+> _(Replace with your actual image path or URL)_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧾 Displays total income, expenses, and balance
+- 📊 Visual summary of spending categories
+- 📱 Responsive and mobile-friendly layout
+- 🎨 Clean and modern UI using Flutter (or React, etc.)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) 
+- A code editor like VS Code
+
+### Run the Project
+
+```bash
+flutter run
